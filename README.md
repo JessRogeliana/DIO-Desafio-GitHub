@@ -1,2 +1,5 @@
 # DIO-Desafio-GitHub
-Desafio de projeto sobre Git/GitHub plataforma DIO. 
+
+Este repositório é sobre o Desafio de projeto de Git/GitHub proposto pela plataforma DIO com intuito de estudar e aprender um pouco mais sobre GIT. 
+
+##
